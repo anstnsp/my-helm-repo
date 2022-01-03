@@ -3,12 +3,12 @@ entries:
   nginx-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-03T17:38:39.529537+09:00"
-    description: A Helm chart for Kubernetes
-    digest: 79d0771569fb0a2b0d84a266def0a492e6379a9ea2a9681fff02bc2e0fb6c246
+    created: "2022-01-03T17:45:19.246803+09:00"
+    description: nginx test munsu
+    digest: 6e775a994355ceb89d9db9a28a1ce93b26158638ea3e7a08f352793e1c33c525
     name: nginx-test
     type: application
     urls:
     - nginx-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-03T17:38:39.526387+09:00"
+generated: "2022-01-03T17:45:19.245596+09:00"
